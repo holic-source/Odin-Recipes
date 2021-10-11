@@ -1,0 +1,24 @@
+.coffee{
+    background-color: rosybrown;
+    text-align: center;
+}
+
+.pizza{
+    background-color: sandybrown;
+    text-align: center;
+}
+
+.ramen{
+    background-color: teal;
+    color: whitesmoke;
+    text-align: center;
+}
+
+
+.dig{
+    text-align: left;
+}
+
+.ig{
+    text-align: left;
+}
